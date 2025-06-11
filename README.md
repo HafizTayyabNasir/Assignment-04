@@ -146,3 +146,6 @@ for (let i = 1; i <= 10; i++) {
   prod = num6 * i;
   console.log(num6, " * ", i, "=", prod);
 }
+
+# Tayyab
+Tayyab
